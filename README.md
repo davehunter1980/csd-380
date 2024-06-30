@@ -1,2 +1,6 @@
-# csd-380
- DevOps Class Repository
+# CSD 380 DevOps
+## Contributors
+- Dave Hunter
+- Darren Osier 
+ 
+ 
